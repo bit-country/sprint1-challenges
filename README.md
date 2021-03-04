@@ -11,7 +11,7 @@ Let's get started!
 Getting to know and understand the concept of Bit.Country chain.
 
 <ul>
-<li>Clone Bit.Country Blockchain repo using <strong>challenges</strong> branch Don't forget to leave a <strong>Star</strong> to show your support.</li>
+<li>Clone Bit.Country Blockchain repo using <strong>challenges-v1</strong> branch Don't forget to leave a <strong>Star</strong> to show your support.</li>
 <li><code>git clone -b challenges https://github.com/bit-country/Bit-Country-Blockchain.git </code></li>
 <li>Ensure everything works as expected by compiling the code</li>
 </ul>
