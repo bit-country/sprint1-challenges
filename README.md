@@ -2,7 +2,7 @@
 
 This challenge designed for all contributors to Bit.Country Tewai Chain who would like to get involved in Bit.Country development.
 
-You can submit the challenges by sending an email to development@bit.country or feel free to invite Bit.Country Core Contributor to your repo to review your code.(check out who are contributors on Challenge 1).
+You can submit the challenges by sending an email to dev@bit.country or feel free to invite Bit.Country Core Contributor to your repo to review your code.(check out who are contributors on Challenge 1).
 
 Let's get started!
 
